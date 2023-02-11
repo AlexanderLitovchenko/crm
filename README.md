@@ -1,5 +1,5 @@
 # A small CRM system
-###### this code I wrote with the help of YouTube playlist
+###### I code this with the help of YouTube playlist
 
 **If you want to see how it works you should do the following:**
 
