@@ -11,7 +11,7 @@
 
 # I lern new!
 
-1. Conditions in Jinjia 2 ({%if | elif | else %})
+1. Conditions in Jinjia 2 **({%if | elif | else %})**
 2. How to add picture in User profile and how to set default picture
 3. Improve my skills in creating models in Django (learn fields relationships)
-4. Learn how to built decorators
+4. **Learn how to built _decorators_**
